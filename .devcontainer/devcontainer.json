@@ -1,0 +1,11 @@
+{
+    "name": "Ray",
+    "settings": {
+		"terminal.integrated.shell.linux": "/bin/bash"
+    },
+	"image": "rayproject/ray-ml",
+	"extensions": [
+		"ms-python.python",
+		"ms-toolsai.jupyter"
+	]
+}
